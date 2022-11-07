@@ -1,5 +1,5 @@
 # Currency Conventer
-![Currency Conventer](images/Currency Conventer.png)
+![Currency Conventer](https://github.com/justynaboesche/Currency-conventer/blob/dbe0dc8f01a9d79b833c15eee529908ac729c0be/images/Currency%20Conventer.png)
 ## Demo
 [See my Currency Conventer](https://justynaboesche.github.io/Homepage/)
 ## Description
