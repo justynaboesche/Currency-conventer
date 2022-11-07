@@ -1,5 +1,5 @@
 # Currency Conventer
-![Justyna Boesche](https://i.postimg.cc/7LdDD5Fn/just-besze.jpg)
+![Currency Conventer](images/Currency Conventer.png)
 ## Demo
 [See my Currency Conventer](https://justynaboesche.github.io/Homepage/)
 ## Description
