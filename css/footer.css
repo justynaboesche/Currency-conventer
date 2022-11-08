@@ -4,6 +4,7 @@
     background-color: hsl(161, 39%, 33%, 0.9);
     color: whitesmoke;
     border-radius: 5px;
+    box-shadow: 5px 2px 20px black;
    }
 
 .footer__paragraph {

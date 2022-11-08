@@ -8,6 +8,7 @@
     border-radius: 5px;
     font-weight: 700;
     text-align: center;
+    box-shadow: 2px 2px 20px black;
 }
 
 .form__fieldset {
@@ -17,6 +18,7 @@
     margin: 20px 0;
     margin-bottom: 0px;
     text-align: center;
+    box-shadow: 2px 2px 20px black;
    }
 
 .form__label {
@@ -45,6 +47,7 @@
     padding: 10px;
     border-radius: 5px;
     border: 1px solid rgb(90, 86, 86);
+    box-shadow: 2px 2px 15px rgb(32, 31, 31);
 }
 
 .form__button:hover {
