@@ -1,6 +1,7 @@
 .form__legend {
-    background-color: hsl(161, 39%, 33%);
+    background-color: hsl(161, 39%, 33%, 0.9);
     color: whitesmoke;
+    font-size: 24px;
     max-width: 250px;
     width: 100%;
     padding: 10px;
@@ -10,7 +11,7 @@
 }
 
 .form__fieldset {
-    background-color: rgb(194, 228, 217);
+    background-color: rgb(194, 228, 217, 0.9);
     padding: 10px;
     border-radius: 5px;
     margin: 20px 0;
@@ -35,7 +36,7 @@
 }
 
 .form__button {
-    background-color: hsl(163, 6%, 75%);
+    background-color: hsl(163, 6%, 60%);
     max-width: 250px;
     width: 100%;
     color: hsl(0, 0%, 10%);

@@ -1,23 +1,22 @@
 .footer {
-    font-style: italic;
     max-width: 700px;
     margin: 0 auto;
-}
-
-.footer__paragraph--currency.footer__paragraph--currency {
-    font-style: normal;
-    font-weight: 700;
-    background-color: hsl(161, 39%, 33%);
-    margin-top: 0px;
-    margin-bottom: 10px;
-    padding: 10px;
+    background-color: hsl(161, 39%, 33%, 0.9);
     color: whitesmoke;
     border-radius: 5px;
+   }
+
+.footer__paragraph {
+    font-style: italic;
+    text-align: left;
+    }
+
+.footer__paragraph--currency {
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 0px;
     text-align: center;
 }
 
-.footer__paragraph {
-    margin-top: 0px;
-    text-align: left;
-}
+
 
