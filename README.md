@@ -7,7 +7,7 @@ This is my second project created in the process of becoming the **Frontend Deve
 ## How it works
 At the beginning you need to enter your amount of money in PLN, then you can select the currency from the list you want to convert into. To get the result, you need to click the 'Przelicz' button. If you want to reset the amount in PLN and the result, you can click the 'Wyczyść' button  [Click here](https://justynaboesche.github.io/Currency-conventer) and convert your amount of money in PLN into one of the selected currencies!
 
-![Homepage GIF](images/GIF_CurrencyConventer.gif)
+![Homepage GIF](images/CurrencyConventer.gif)
 ## Technologies used in the project
 To create the application I have used:
 - HTML
