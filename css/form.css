@@ -1,5 +1,5 @@
 .form__legend {
-    background-color: hsl(161, 39%, 33%, 0.9);
+    background-color: hsl(161, 39%, 33%, 1);
     color: whitesmoke;
     font-size: 24px;
     max-width: 250px;
@@ -12,7 +12,7 @@
 }
 
 .form__fieldset {
-    background-color: rgb(194, 228, 217, 0.9);
+    background-color: rgb(194, 228, 217, 0.95);
     padding: 10px;
     border-radius: 5px;
     margin: 20px 0;
