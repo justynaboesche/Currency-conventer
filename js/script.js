@@ -27,7 +27,6 @@
         const amountElement = document.querySelector(".js-amount");
         const currencyElement = document.querySelector(".js-currency");
  
-
         const amount = +amountElement.value;
         const currency = currencyElement.value;
 
