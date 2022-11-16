@@ -10,7 +10,6 @@ html {
 
 .body {
     font-family: 'Montserrat', sans-serif;
-    background-color: hsl(161, 39%, 93%);
     display: flex;
     justify-content: center;
     align-items: center;
