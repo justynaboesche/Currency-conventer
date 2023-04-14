@@ -10,13 +10,13 @@
 .footer__paragraph {
     font-style: italic;
     text-align: left;
+    text-align: center;
     }
 
 .footer__paragraph--currency {
     font-style: normal;
     font-weight: 700;
     margin-top: 0px;
-    text-align: center;
 }
 
 
